@@ -60,15 +60,10 @@
   <a href="https://github.com/itkhair05" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-1F222E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.facebook.com/duongthekhai05" target="_blank">
+  <a href="https://www.facebook.com/itskhair205/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://www.linkedin.com/in/duongthekhai05" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
 </p>
-
----
 
 <!-- ==================== ✨ Footer Animation ==================== -->
 <p align="center">
