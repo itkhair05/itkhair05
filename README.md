@@ -1,6 +1,6 @@
 <!-- ==================== 🌌 Futuristic Banner ==================== -->
 <p align="center">
-  <img src="https://i.redd.it/n8agw6z2smyb1.gif" alt="banner" width="40%"/>
+  <img src="https://i.redd.it/n8agw6z2smyb1.gif" alt="banner" width="100%" />
 </p>
 
 <!-- ==================== 👋 Introduction ==================== -->
