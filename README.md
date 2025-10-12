@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/DkA0QDw.png" alt="banner" width="100%"/>
+  <img src="https://www.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif" alt="banner" width="100%"/>
 </p>
 
 <!-- Tên và giới thiệu -->
