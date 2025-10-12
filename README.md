@@ -6,7 +6,7 @@
 <!-- ==================== 👋 Introduction ==================== -->
 <h1 align="center">
   <img src="https://em-content.zobj.net/source/microsoft-teams/363/technologist_1f9d1-200d-1f4bb.png" width="40"/>  
-  Hey there, I'm <b>Dương Thế Khải</b> (itkhair05)
+  Hey there, I'm <b>Dương Thế Khải</b>
 </h1>
 
 <h3 align="center">
@@ -51,11 +51,21 @@
 ---
 
 <!-- ==================== 🌐 Connect ==================== -->
-<h2 align="center">🌐 Connect with me</h2>
+<h2 align="center">🌐 Let's Connect</h2>
+
 <p align="center">
-  <a href="mailto:itkhair05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/itkhair05/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/itkhair05"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:bb52522023@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/itkhair05" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-1F222E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.facebook.com/duongthekhai05" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.linkedin.com/in/duongthekhai05" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
