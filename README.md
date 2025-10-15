@@ -23,24 +23,23 @@
 
 ---
 
-<!-- ==================== 📊 GitHub Stats ==================== -->
+<!-- ==================== 📊 GitHub Analytics ==================== -->
 <h2 align="center">📈 GitHub Analytics</h2>
 
+<!-- 🔹 Stats + Streaks -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itkhair05&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itkhair05&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itkhair05&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=itkhair05&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 </p>
 
+<!-- 🔹 Profile Details -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itkhair05&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" height="165"/>
+  <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itkhair05&theme=tokyonight" alt="Profile Details"/>
 </p>
 
+<!-- 🔹 Top Languages -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itkhair05&theme=tokyonight" width="85%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itkhair05&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itkhair05&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages"/>
 </p>
 
 ---
