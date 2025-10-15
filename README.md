@@ -9,10 +9,6 @@
   Hey there, I'm <b>Dương Thế Khải</b>
 </h1>
 
-<h3 align="center">
-  🚀 <b>Backend Developer</b> | Java • Spring Boot • SQL • REST API  
-</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Crafting+Scalable+Backend+Systems+⚙️;Optimizing+Databases+and+APIs+🚀;Automating+Everything+with+Code+💡" />
 </p>
@@ -23,7 +19,6 @@
 <h2 align="center">🧩 Tech Stack & Tools</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,python,docker,git,github,postman,vscode,linux" /><br>
-  <img src="https://skillicons.dev/icons?i=aws,idea" />
 </p>
 
 ---
@@ -51,7 +46,7 @@
 ---
 
 <!-- ==================== 🌐 Connect ==================== -->
-<h2 align="center">🌐 Let's Connect</h2>
+<h2 align="center">🌐Contact</h2>
 
 <p align="center">
   <a href="mailto:bb52522023@gmail.com" target="_blank">
