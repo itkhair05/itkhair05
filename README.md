@@ -32,7 +32,15 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itkhair05&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" height="165"/>
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itkhair05&theme=tokyonight" width="85%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itkhair05&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
 
 ---
