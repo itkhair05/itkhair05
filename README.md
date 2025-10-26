@@ -37,11 +37,6 @@
   <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itkhair05&theme=tokyonight" alt="Profile Details"/>
 </p>
 
-<!-- 🔹 Top Languages -->
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itkhair05&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages"/>
-</p>
-
 ---
 
 <!-- ==================== 🌐 Connect ==================== -->
