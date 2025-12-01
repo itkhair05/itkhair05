@@ -43,7 +43,7 @@
 <h2 align="center">🌐Contact</h2>
 
 <p align="center">
-  <a href="mailto:thekhai6551@gmail.com" target="_blank">
+  <a href="mailto:duongthekhai.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/itkhair05" target="_blank">
