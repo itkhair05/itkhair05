@@ -28,7 +28,6 @@
 
 <!-- 🔹 Stats + Streaks -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itkhair05&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats"/>
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=itkhair05&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 </p>
 
