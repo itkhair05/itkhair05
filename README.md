@@ -26,11 +26,6 @@
 <!-- ==================== 📊 GitHub Analytics ==================== -->
 <h2 align="center">📈 GitHub Analytics</h2>
 
-<!-- 🔹 Stats + Streaks -->
-<p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=itkhair05&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
-</p>
-
 <!-- 🔹 Profile Details -->
 <p align="center">
   <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itkhair05&theme=tokyonight" alt="Profile Details"/>
