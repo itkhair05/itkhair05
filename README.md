@@ -18,7 +18,7 @@
 <!-- ==================== 🧰 Tech Stack ==================== -->
 <h2 align="center">🧩 Tech Stack & Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,python,docker,git,github,postman,vscode,linux" /><br>
+  <img src="https://skillicons.dev/icons?i=java,spring,php,go,react,javascript,typescript,mysql,sqlite,mongodb,python,docker,git,github,postman,vscode,latex,cloudflare,figma,vercel" /><br>
 </p>
 
 ---
@@ -43,7 +43,7 @@
   <a href="https://github.com/itkhair05" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-1F222E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.facebook.com/itskhair205/" target="_blank">
+  <a href="https://www.facebook.com/duongthekhai.profile" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
