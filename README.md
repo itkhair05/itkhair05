@@ -1,54 +1,53 @@
-<!-- ==================== 🌌 Futuristic Banner ==================== -->
+<!-- ==================== 🌌 Banner ==================== -->
 <p align="center">
   <img src="https://i.redd.it/n8agw6z2smyb1.gif" alt="banner" width="100%" />
 </p>
 
 <!-- ==================== 👋 Introduction ==================== -->
 <h1 align="center">
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/technologist_1f9d1-200d-1f4bb.png" width="40"/>  
-  Hey there, I'm <b>Dương Thế Khải</b>
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/technologist_1f9d1-200d-1f4bb.png" width="42"/>  
+  Hi, I'm <b>Dương Thế Khải</b>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Crafting+Scalable+Backend+Systems+⚙️;Optimizing+Databases+and+APIs+🚀;Automating+Everything+with+Code+💡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=620&lines=Backend+Engineer+%7C+Java+%26+Spring+Boot;Building+Scalable+%26+Reliable+Systems;Passionate+about+Clean+Code+%26+Automation" />
 </p>
 
 ---
 
 <!-- ==================== 🧰 Tech Stack ==================== -->
-<h2 align="center">🧩 Tech Stack & Tools</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,php,go,react,javascript,typescript,mysql,sqlite,mongodb,python,docker,git,github,postman,vscode,latex,cloudflare,figma,vercel" /><br>
-</p>
-
----
-
-<!-- ==================== 📊 GitHub Analytics ==================== -->
-<h2 align="center">📈 GitHub Analytics</h2>
-
-<!-- 🔹 Profile Details -->
-<p align="center">
-  <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itkhair05&theme=tokyonight" alt="Profile Details"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,go,php,react,typescript,javascript,mysql,mongodb,sqlite,python,docker,git,github,postman,vscode,cloudflare,vercel,figma&perline=10" />
 </p>
 
 ---
 
 <!-- ==================== 🌐 Connect ==================== -->
-<h2 align="center">🌐Contact</h2>
+<h2 align="center">📫 Connect with me</h2>
 
 <p align="center">
-  <a href="mailto:duongthekhai.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:duongthekhai.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/duongthekhai-work" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
   <a href="https://github.com/itkhair05" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-1F222E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  &nbsp;
   <a href="https://www.facebook.com/duongthekhai.profile" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
 
-<!-- ==================== ✨ Footer Animation ==================== -->
+<br>
+
+<!-- ==================== ✨ Footer ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:6A00FF&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </p>
