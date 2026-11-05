@@ -6,7 +6,7 @@
 <!-- ==================== 👋 Introduction ==================== -->
 <h1 align="center">
   <img src="https://em-content.zobj.net/source/microsoft-teams/363/technologist_1f9d1-200d-1f4bb.png" width="42"/>  
-  Hi, I'm <b>Dương Thế Khải</b>
+  Hi, I'm <b>Duong The Khai</b>
 </h1>
 
 <!-- ==================== 🧰 Tech Stack ==================== -->
