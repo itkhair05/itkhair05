@@ -9,16 +9,13 @@
   Hi, I'm <b>Dương Thế Khải</b>
 </h1>
 
----
-
 <!-- ==================== 🧰 Tech Stack ==================== -->
 <h2 align="center">🛠️ Tech Stack</h2>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,go,php,react,typescript,javascript,mysql,mongodb,sqlite,python,docker,git,github,postman,vscode,cloudflare,vercel,figma&perline=10" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,go,php,react,ts,js,flutter,mysql,mongodb,sqlite,python,docker,git,github,postman,vscode,cloudflare,vercel,figma&perline=10&theme=dark" />
+  </a>
 </p>
-
----
 
 <!-- ==================== 🌐 Connect ==================== -->
 <h2 align="center">📫 Connect with me</h2>
