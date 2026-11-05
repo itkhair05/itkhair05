@@ -9,10 +9,6 @@
   Hi, I'm <b>Dương Thế Khải</b>
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=620&lines=Backend+Engineer+%7C+Java+%26+Spring+Boot;Building+Scalable+%26+Reliable+Systems;Passionate+about+Clean+Code+%26+Automation" />
-</p>
-
 ---
 
 <!-- ==================== 🧰 Tech Stack ==================== -->
@@ -45,9 +41,3 @@
   </a>
 </p>
 
-<br>
-
-<!-- ==================== ✨ Footer ==================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</p>
